@@ -3,7 +3,6 @@
 import 'package:car_rental/helpers/constants/constants.dart';
 import 'package:flutter/material.dart';
 
-import '../../main.dart';
 import '../helpers/constants/validation_class.dart';
 
 class SimpleInputField extends StatefulWidget {

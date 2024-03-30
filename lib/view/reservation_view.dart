@@ -4,10 +4,10 @@ import 'package:car_rental/helpers/constants/validation_class.dart';
 import 'package:car_rental/widgets/CustomButton.dart';
 import 'package:car_rental/widgets/date_picker_field.dart';
 import 'package:car_rental/widgets/simple_input_field.dart';
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:intl/intl.dart';
+
 import '../widgets/container_widget.dart';
 import '../widgets/title_widget.dart';
 import 'customer_info_view.dart';

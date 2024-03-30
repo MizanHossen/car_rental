@@ -1,8 +1,10 @@
 import 'dart:convert';
+
 import 'package:car_rental/helpers/api_helper/api_urls.dart';
 import 'package:car_rental/models/car_list_model.dart';
 import 'package:dio/dio.dart';
 import 'package:get/get.dart';
+
 import '../helpers/api_helper/api_status_handler.dart';
 
 class VehicleInfoController extends GetxController {

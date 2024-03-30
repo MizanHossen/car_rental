@@ -2,6 +2,7 @@ import 'package:car_rental/helpers/constants/constants.dart';
 import 'package:car_rental/view/summery_details.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
+
 import '../controller/common_controller.dart';
 import '../widgets/CustomButton.dart';
 import '../widgets/back_button.dart';

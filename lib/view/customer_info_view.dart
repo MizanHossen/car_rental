@@ -93,8 +93,8 @@ class CustomerInfoView extends StatelessWidget {
               CustomButton(
                   text: "Next",
                   onTap: () {
-                    if(formKey.currentState!.validate()){
-                      Get.to(()=> const VehicleInfoView(), transition: Transition.rightToLeft);
+                    if (formKey.currentState!.validate()) {
+                      Get.to(() => const VehicleInfoView(), transition: Transition.rightToLeft);
                     }
                   }),
             ],

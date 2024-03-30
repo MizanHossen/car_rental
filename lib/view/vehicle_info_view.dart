@@ -1,13 +1,9 @@
-import 'dart:ffi';
-
 import 'package:car_rental/controller/vichicle_info_controller.dart';
-import 'package:car_rental/helpers/api_helper/api_status_handler.dart';
 import 'package:car_rental/helpers/constants/constants.dart';
 import 'package:car_rental/helpers/constants/validation_class.dart';
-import 'package:car_rental/models/car_list_model.dart';
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
+
 import '../controller/common_controller.dart';
 import '../widgets/CustomButton.dart';
 import '../widgets/back_button.dart';
